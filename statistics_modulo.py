@@ -44,7 +44,7 @@ def estadisticas_gral(lista_partidos, lista_purchases):
     elif stat == 4:  mayor_venta(lista_partidos)
     elif stat == 5:  products_mas_vendido(lista_purchases)
     elif stat == 6:  top_clientes(lista_purchases) 
-    else: print("lol")
+    else: print("no disponible")
 
 
 def vip_prom(lista_purchases):
